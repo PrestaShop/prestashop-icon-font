@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "prestashop-official-pack";
-  src:url("https://raw.githubusercontent.com/PrestaShop/icons-pack/master/fonts/prestashop-official-pack.eot");
-  src:url("https://raw.githubusercontent.com/PrestaShop/icons-pack/master/fonts/prestashop-official-pack.eot?#iefix") format("embedded-opentype"),
-    url("https://raw.githubusercontent.com/PrestaShop/icons-pack/master/fonts/prestashop-official-pack.woff") format("woff"),
-    url("https://raw.githubusercontent.com/PrestaShop/icons-pack/master/fonts/prestashop-official-pack.ttf") format("truetype"),
-    url("https://raw.githubusercontent.com/PrestaShop/icons-pack/master/fonts/prestashop-official-pack.svg#prestashop-official-pack") format("svg");
+  src:url("fonts/prestashop-official-pack.eot");
+  src:url("fonts/prestashop-official-pack.eot?#iefix") format("embedded-opentype"),
+    url("fonts/prestashop-official-pack.woff") format("woff"),
+    url("fonts/prestashop-official-pack.ttf") format("truetype"),
+    url("fonts/prestashop-official-pack.svg#prestashop-official-pack") format("svg");
   font-weight: normal;
   font-style: normal;
 
@@ -37,66 +37,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-
-
-    html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-family:inherit;font-size:100%;vertical-align:baseline}
-body{line-height:1;color:#000;background:#fff}
-ol,ul{list-style:none}
-table{border-collapse:separate;border-spacing:0;vertical-align:middle}
-caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}
-a img{border:none}
-*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
-body{font-family: 'Montserrat', sans-serif;}
-.container{margin:15px auto;max-width: 1200px;width: 80%;}
-header{width: 100%;display: block;margin: 40px 0 60px 0;height: 44px;}
-
-h1{margin:40px 0 20px;font-weight:700;font-size:32px;line-height:32px;color:#1E2024; text-align: center;}
-h2{margin:60px 0 40px;font-weight:700;font-size:24px;line-height:24px;color:#1E2024; text-align: center;}
-h3{color: #1E2024;text-align: center;font-size: 16px;}
-p{text-align: center;margin: 50px 50px;font-family: 'Open Sans', sans-serif;font-size: 14px;color: #587078;line-height: 23px;}
-.minus{font-size: 12px; color: #BBCDD2;}
-a{display: block;}
-nav{}
-nav ul{float: right;}
-  nav li{display: block;float: right;padding:20px 20px 20px 20px; }
-  nav ul li:first-child {padding:20px 0px 20px 20px;margin: 0px 0px 0px 0px;}
-  nav a{text-decoration: none;font-family: 'Open Sans', sans-serif;font-size: 14px;color: #587078;padding-bottom: 5px;}
-  nav a:hover{color: #BBCDD2;}
-footer{padding: 0px 0;}
-.icons-main{margin: 100px 0px;}
-.icon{color:#95A7AD; }
-.button{text-decoration: none;background-color:#24ABCE;border-radius: 3px;width: 258px;font-family: 'Open Sans', sans-serif;font-size: 12px;color: #FFFFFF;padding: 15px 56px;text-align: center;letter-spacing: 1px;line-height: 17px;margin: auto;text-transform: uppercase;font-weight: bold;}
-.button:hover{background-color:#27D2F3;}
-.small{font-size:14px;color:#a5adb4;}
-.small a{color:#a5adb4;}
-.small a:hover{color:#fb565e}
-.glyphs.character-mapping{margin:0 0 20px 0;padding:20px 0 20px 30px;color:rgba(0,0,0,0.5);}
-.glyphs.character-mapping li{margin:0 15px 20px 15px;display:inline-block;width:90px}
-.glyphs.character-mapping .icon{margin:10px 0 10px 15px;padding:15px;position:relative;width:55px;height:55px;color:#162a36 !important;overflow:hidden;-webkit-border-radius:3px;border-radius:3px;font-size:32px;}
-.glyphs.character-mapping .icon svg{fill:#000}
-.glyphs.character-mapping input{margin:0;padding:5px 0;line-height:12px;font-size:12px;display:block;width:100%;border:1px solid #d8e0e5;-webkit-border-radius:5px;border-radius:5px;text-align:center;outline:0;}
-.glyphs.character-mapping input:focus{border:1px solid #fbde4a;-webkit-box-shadow:inset 0 0 3px #fbde4a;box-shadow:inset 0 0 3px #fbde4a}
-.glyphs.character-mapping input:hover{-webkit-box-shadow:inset 0 0 3px #fbde4a;box-shadow:inset 0 0 3px #fbde4a}
-.glyphs.css-mapping{margin:10px 0 60px 0;padding:30px 15px 20px 15px;color:rgba(0,0,0,0.5);-webkit-border-radius:3px;border-radius:3px;text-align: center;}
-.glyphs.css-mapping li{margin:0 15px 20px 15px;padding:0;display:inline-block;overflow:hidden;}
-
-.glyphs.css-mapping .icon{margin:0;padding:13px;height:50px;width:50px;color:#465D64!important;overflow:hidden;float:left;font-size:24px; text-align: center}
-.glyphs.css-mapping input{font-family: 'Open Sans', sans-serif;margin:0;margin-top:5px;padding:8px;line-height:17px;font-size:14px;display:block;width:150px;height:40px;border:1px solid #95A7AD;-webkit-border-radius:5px;border-radius:5px;background:#fff;outline:0;float:right;color:#95A7AD;}
-.glyphs.css-mapping input:focus{border:1px solid #93DCEB;-webkit-box-shadow:0 0 3px #93DCEB;box-shadow:0 0 3px #93DCEB}
-.glyphs.css-mapping input:hover{border:1px solid #93DCEB;-webkit-box-shadow:0 0 3px #93DCEB;box-shadow:0 0 3px #93DCEB}
-.activate {border-bottom: 2px solid #587078; }
-
-.search{width: 100%; text-align: center;margin: 60px 0px;}
-.search input{float: left;font-family: 'Open Sans', sans-serif;;margin-left:11%;padding:8px 8px 8px 21px;line-height:25px;font-size:16px;display:block;width: 60%;height:50px;border:1px solid #95A7AD;color:#95A7AD;-webkit-border-radius:5px;border-radius:5px;background:#fff;outline:0;}
-.search input:focus{border:1px solid #93DCEB;-webkit-box-shadow:0 0 3px #93DCEB;box-shadow:0 0 3px #93DCEB}
-.search input:hover{-webkit-box-shadow:0 0 3px #93DCEB;box-shadow:0 0 3px #93DCEB}
-.button_search{margin-right: 11%;text-decoration: none;background-color:#24ABCE;border-radius: 3px;width: 15%;font-family: 'Open Sans', sans-serif;font-size: 12px;color: #FFFFFF;padding: 16px 25px;text-align: center;letter-spacing: 1px;line-height: 17px;text-transform: uppercase;font-weight: bold;float: right;}
-.button_search:hover{background-color:#27D2F3;}
-.clear {clear: both;}
-
-
-
 
 .icon-aim:before {
   content: "a";
@@ -1496,10 +1436,10 @@ footer{padding: 0px 0;}
 .icon-contact:before {
   content: "\e173";
 }
-.icon-destroy-font-awsome-emoji-90:before {
+.icon-fish:before {
   content: "\e174";
 }
-.icon-destroy-font-awsome-emoji-91:before {
+.icon-cookie:before {
   content: "\e175";
 }
 .icon-pizza:before {
@@ -1531,4 +1471,7 @@ footer{padding: 0px 0;}
 }
 .icon-lego:before {
   content: "\e17f";
+}
+.icon-preston:before {
+  content: "\e180";
 }
