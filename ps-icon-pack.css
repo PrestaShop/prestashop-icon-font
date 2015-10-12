@@ -1,19 +1,19 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: "prestashop-official-pack";
-  src:url("fonts/prestashop-official-pack.eot");
-  src:url("fonts/prestashop-official-pack.eot?#iefix") format("embedded-opentype"),
-    url("fonts/prestashop-official-pack.woff") format("woff"),
-    url("fonts/prestashop-official-pack.ttf") format("truetype"),
-    url("fonts/prestashop-official-pack.svg#prestashop-official-pack") format("svg");
+  font-family: "prestashop-icon-font";
+  src:url("fonts/prestashop-icon-font.eot");
+  src:url("fonts/prestashop-icon-font.eot?#iefix") format("embedded-opentype"),
+    url("fonts/prestashop-icon-font.woff") format("woff"),
+    url("fonts/prestashop-icon-font.ttf") format("truetype"),
+    url("fonts/prestashop-icon-font.svg#prestashop-icon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 
 }
 
 [data-icon]:before {
-  font-family: "prestashop-official-pack" !important;
+  font-family: "prestashop-icon-font" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -27,7 +27,7 @@
 
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: "prestashop-official-pack" !important;
+  font-family: "prestashop-icon-font" !important;
   font-style: normal !important;
   font-weight: normal !important;
   font-variant: normal !important;
